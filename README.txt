@@ -1,1 +1,1 @@
-# 这是分支管理 #
+Creating a new branch is quick.
